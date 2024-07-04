@@ -17,3 +17,9 @@ git branch <branch-name>    [ create branch 'branch-name' but does not switch to
 git branch          [ show existing branch]
 git checkout <branch-name>  [ switch to branch 'branch-name']
 ```
+
+## Pull request
+
+```
+git pull origin <branch-name> 
+```
