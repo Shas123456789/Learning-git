@@ -30,3 +30,9 @@ git add .    [ to stage all modified + new created file at once]
 git push -u origin main   [ to set upstream branch 'main']
 git push
 ```
+
+## View commit history
+```
+git log    
+[ to quit press 'q' ]
+```
